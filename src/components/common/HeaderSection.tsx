@@ -3,7 +3,9 @@ import Navbar from '../Navbar'
 const HeaderSection = () => {
   return (
 
-      <Navbar />
+     <header className='header--section'>
+    
+     </header>
 
   )
 }
