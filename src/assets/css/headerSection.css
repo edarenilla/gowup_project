@@ -1,0 +1,9 @@
+.header--section{
+    color: var(--color-primary);
+    background-color: #f6f8fb;;
+    height: 80px;
+    width: 100%;
+    display: grid;
+    padding: auto 10%;
+    
+}
